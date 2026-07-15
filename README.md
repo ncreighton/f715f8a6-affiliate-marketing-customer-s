@@ -1,2 +1,34 @@
-# f715f8a6-affiliate-marketing-customer-s
-Built for affiliate marketing professionals who are tired of missing messages, manually responding to routine requests at all hours.  24/7 operation — runs on your server or scales to any hosting platform. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Affiliate Marketing Customer Support And Faq —
+# Affiliate Marketing Customer Support and FAQ Bot
+
+24/7 automated responses, ticket routing, and knowledge base search for Affiliate Marketing businesses. Support coverage without hiring more staff.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq4gz9z9bUEg8833mcZM2l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq4gz9z9bUEg8833mcZM2l)
+
